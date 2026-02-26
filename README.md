@@ -1,1 +1,3 @@
-# 1140_CS351
+# AI-Assisted Software Development
+
+AI-assisted software development leverages artificial intelligence tools and techniques to enhance and automate various aspects of the software engineering process. These tools can help with code generation, bug detection, code review, testing, and project management, enabling developers to work more efficiently and effectively. By integrating AI into development workflows, teams can reduce manual effort, improve code quality, and accelerate delivery timelines.
